@@ -7,6 +7,14 @@ sem console, e mostra barra de progresso, velocidade e tempo restante.
 > Uso destinado a conteúdo próprio, livre ou de domínio público.
 > Respeite os Termos de Serviço do YouTube e os direitos autorais.
 
+## Baixar pronto para usar
+
+Se você só quer usar o programa (sem instalar Python), baixe o executável em
+[**Releases**](https://github.com/GutoPospichil/baixador-youtube/releases/latest).
+
+O executável ainda precisa do `yt-dlp` e do `ffmpeg` instalados — use o
+`instalar-dependencias.bat` ou veja [Requisitos](#requisitos).
+
 ## Funcionalidades
 
 - Baixa vídeos do YouTube colando o link
@@ -52,7 +60,9 @@ pasta `Scripts` do Python — então qualquer uma das opções acima funciona.
 
 ## Como usar
 
-1. Dê dois cliques em **`run.vbs`** (abre sem console) ou rode `pythonw app.py`
+1. Abra o programa:
+   - executável: `BaixadorYouTube.exe`, ou
+   - código-fonte: dois cliques em **`run.vbs`** (abre sem console)
 2. Cole o link do vídeo (botão **Colar**)
 3. Escolha a pasta de destino e a qualidade
 4. Clique em **BAIXAR VÍDEO**
