@@ -1,0 +1,4 @@
+# Opcional: instala o yt-dlp como biblioteca/CLI via Python.
+# O aplicativo funciona com o yt-dlp.exe instalado via winget,
+# baixado do GitHub ou colocado na pasta do projeto.
+yt-dlp
